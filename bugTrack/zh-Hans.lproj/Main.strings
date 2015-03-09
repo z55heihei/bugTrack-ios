@@ -1,0 +1,105 @@
+
+/* Class = "IBUITextField"; placeholder = "新邮箱"; ObjectID = "0e4-0H-U1h"; */
+"0e4-0H-U1h.placeholder" = "新邮箱";
+
+/* Class = "IBUITextField"; placeholder = "原团队"; ObjectID = "31A-GB-tQE"; */
+"31A-GB-tQE.placeholder" = "原团队";
+
+/* Class = "IBUINavigationItem"; title = "登录"; ObjectID = "4zL-74-qUs"; */
+"4zL-74-qUs.title" = "登录";
+
+/* Class = "IBUILabel"; text = "用户名："; ObjectID = "6Uc-Vd-kDM"; */
+"6Uc-Vd-kDM.text" = "用户名：";
+
+/* Class = "IBUIBarButtonItem"; title = "提交"; ObjectID = "6Wg-AQ-P57"; */
+"6Wg-AQ-P57.title" = "提交";
+
+/* Class = "IBUINavigationItem"; title = "修改用户信息"; ObjectID = "Jjo-AJ-oJp"; */
+"Jjo-AJ-oJp.title" = "修改用户信息";
+
+/* Class = "IBUINavigationItem"; title = "问题中心"; ObjectID = "Jup-mn-N5N"; */
+"Jup-mn-N5N.title" = "问题中心";
+
+/* Class = "IBUILabel"; text = "密码："; ObjectID = "K3b-At-GYT"; */
+"K3b-At-GYT.text" = "密码：";
+
+/* Class = "IBUIBarButtonItem"; title = "注册"; ObjectID = "KIc-5N-YrO"; */
+"KIc-5N-YrO.title" = "注册";
+
+/* Class = "IBUITextField"; placeholder = "原邮箱"; ObjectID = "L1g-I6-E3i"; */
+"L1g-I6-E3i.placeholder" = "原邮箱";
+
+/* Class = "IBUITextField"; placeholder = "原密码"; ObjectID = "M1u-k9-gu8"; */
+"M1u-k9-gu8.placeholder" = "原密码";
+
+/* Class = "IBUITextField"; placeholder = "新密码"; ObjectID = "Mnz-h6-2IO"; */
+"Mnz-h6-2IO.placeholder" = "新密码";
+
+/* Class = "IBUINavigationItem"; title = "项目详情"; ObjectID = "QZB-wI-r10"; */
+"QZB-wI-r10.title" = "项目详情";
+
+/* Class = "IBUILabel"; text = "团队："; ObjectID = "Rd9-KC-5Sp"; */
+"Rd9-KC-5Sp.text" = "团队：";
+
+/* Class = "IBUIBarButtonItem"; title = "提交"; ObjectID = "T5s-5q-UDW"; */
+"T5s-5q-UDW.title" = "提交";
+
+/* Class = "IBUINavigationItem"; title = "我的项目"; ObjectID = "Ufe-PK-U1i"; */
+"Ufe-PK-U1i.title" = "我的项目";
+
+/* Class = "IBUIBarButtonItem"; title = "操作"; ObjectID = "VRG-ad-9dL"; */
+"VRG-ad-9dL.title" = "操作";
+
+/* Class = "IBUILabel"; text = "密码："; ObjectID = "YJs-eW-Blg"; */
+"YJs-eW-Blg.text" = "密码：";
+
+/* Class = "IBUILabel"; text = "用户名："; ObjectID = "bAh-Az-cBt"; */
+"bAh-Az-cBt.text" = "用户名：";
+
+/* Class = "IBUINavigationItem"; title = "注册"; ObjectID = "cAh-6X-WKk"; */
+"cAh-6X-WKk.title" = "注册";
+
+/* Class = "IBUINavigationItem"; title = "问题详情"; ObjectID = "eeW-5Q-xuH"; */
+"eeW-5Q-xuH.title" = "问题详情";
+
+/* Class = "IBUILabel"; text = "团队："; ObjectID = "f9K-I1-cWn"; */
+"f9K-I1-cWn.text" = "团队：";
+
+/* Class = "IBUIButton"; normalTitle = "登录"; ObjectID = "fTV-zZ-V9y"; */
+"fTV-zZ-V9y.normalTitle" = "登录";
+
+/* Class = "IBUITabBarItem"; title = "问题中心"; ObjectID = "ijs-XR-7iO"; */
+"ijs-XR-7iO.title" = "问题中心";
+
+/* Class = "IBUITextField"; placeholder = "新团队"; ObjectID = "k27-4L-7y1"; */
+"k27-4L-7y1.placeholder" = "新团队";
+
+/* Class = "IBUILabel"; text = "邮箱："; ObjectID = "lyL-kn-O0u"; */
+"lyL-kn-O0u.text" = "邮箱：";
+
+/* Class = "IBUILabel"; text = "密码："; ObjectID = "mwu-Ey-9xh"; */
+"mwu-Ey-9xh.text" = "密码：";
+
+/* Class = "IBUILabel"; text = "用户名："; ObjectID = "oRE-Xk-M6U"; */
+"oRE-Xk-M6U.text" = "用户名：";
+
+/* Class = "IBUITabBarItem"; title = "我的项目"; ObjectID = "q69-G2-TUU"; */
+"q69-G2-TUU.title" = "我的项目";
+
+/* Class = "IBUITextField"; placeholder = "新用户名"; ObjectID = "rAG-0s-tfr"; */
+"rAG-0s-tfr.placeholder" = "新用户名";
+
+/* Class = "IBUITextField"; placeholder = "原用户名"; ObjectID = "v3b-uB-mIb"; */
+"v3b-uB-mIb.placeholder" = "原用户名";
+
+/* Class = "IBUILabel"; text = "邮箱："; ObjectID = "v6R-GL-olC"; */
+"v6R-GL-olC.text" = "邮箱：";
+
+/* Class = "IBUITabBarItem"; title = "问题中心"; ObjectID = "v9e-q4-7Ij"; */
+"v9e-q4-7Ij.title" = "问题中心";
+
+/* Class = "IBUIButton"; normalTitle = "忘记密码"; ObjectID = "vEL-Al-uEH"; */
+"vEL-Al-uEH.normalTitle" = "忘记密码";
+
+/* Class = "IBUIBarButtonItem"; title = "解决"; ObjectID = "yzn-vY-eGl"; */
+"yzn-vY-eGl.title" = "解决";

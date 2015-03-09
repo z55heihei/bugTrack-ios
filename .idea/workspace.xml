@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4cc1049-a024-497e-b982-0ee98e0ec259" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/SDKConfig.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/SlientAudio.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/XMPPCapabilities.momd/VersionInfo.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/XMPPMessageArchiving.momd/VersionInfo.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/XMPPRoom.momd/VersionInfo.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/XMPPRoomHybrid.momd/VersionInfo.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/XMPPRoster.momd/VersionInfo.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/XMPPvCard.momd/VersionInfo.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/easemob.momd/VersionInfo.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/XMPPCapabilities.momd/XMPPCapabilities 2.mom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/XMPPCapabilities.momd/XMPPCapabilities 2.omo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/XMPPCapabilities.momd/XMPPCapabilities.mom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/XMPPMessageArchiving.momd/XMPPMessageArchiving.mom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/XMPPMessageArchiving.momd/XMPPMessageArchiving.omo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/XMPPRoom.momd/XMPPRoom.mom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/XMPPRoom.momd/XMPPRoom.omo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/XMPPRoomHybrid.momd/XMPPRoomHybrid.mom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/XMPPRoomHybrid.momd/XMPPRoomHybrid.omo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/XMPPRoster.momd/XMPPRoster 2.mom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/XMPPRoster.momd/XMPPRoster 2.omo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/XMPPRoster.momd/XMPPRoster.mom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/XMPPvCard.momd/XMPPvCard.mom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/XMPPvCard.momd/XMPPvCard.omo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/easemob.momd/easemob.mom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/easemob.momd/easemob2_0_3.mom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/easemob.momd/easemob2_0_5.mom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/easemob.momd/easemob2_0_6.mom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/easemob.momd/easemob2_0_7.mom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/easemob.momd/easemob2_0_7plus.mom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/easemob.momd/easemob2_0_8.mom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/easemob.momd/easemob2_0_9.mom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/easemob.momd/easemob2_1_1.mom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/easemob.momd/easemob2_1_1.omo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/in.caf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/lib/libEaseMobClientSDKLite.a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/lib/libPushSDK.a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/lib/libvoice_engine_arm.a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/lib/libvoice_engine_x86.a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/lib/APService.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/General/Marcos/AppMacro.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/DataSource/Model/Bug.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/DataSource/Model/Bug.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/ViewController/BugManagerViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/ViewController/BugManagerViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/DataSource/Manager/DataGeterManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/DataSource/Manager/DataGeterManager.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/DataSource/Manager/DataPosterManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/DataSource/Manager/DataPosterManager.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/DataSource/Manager/DataUserManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/DataSource/Manager/DataUserManager.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/EMAnonymousHelper.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/EMBuddy.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/EMBuddyGroup.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/EMChatCommand.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/EMChatFile.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/EMChatImage.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/EMChatLocation.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/delegates/internal/EMChatManagerBuddyDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/delegates/internal/EMChatManagerChatDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/delegates/internal/EMChatManagerDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/delegates/internal/EMChatManagerDelegateBase.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/delegates/internal/EMChatManagerEncryptionDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/delegates/internal/EMChatManagerGroupDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/delegates/internal/EMChatManagerLoginDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/delegates/internal/EMChatManagerMediaDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/delegates/internal/EMChatManagerPushNotificationDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/delegates/internal/EMChatManagerUtilDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/EMChatServiceDefs.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/EMChatText.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/EMChatVideo.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/EMChatVoice.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/EMCommandMessageBody.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/EMConversation.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/EMConversationInternal.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/Utility/EMDeviceManager/EMDeviceManagerDefs.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/Utility/EMDeviceManager/delegates/internal/EMDeviceManagerDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/Utility/EMDeviceManager/delegates/internal/EMDeviceManagerDelegateBase.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/Utility/EMDeviceManager/delegates/internal/EMDeviceManagerLocationDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/Utility/EMDeviceManager/delegates/internal/EMDeviceManagerMediaDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/Utility/EMDeviceManager/delegates/internal/EMDeviceManagerNetworkDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/Utility/EMDeviceManager/delegates/internal/EMDeviceManagerProximitySensorDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/Utility/ErrorManager/EMError.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/Utility/ErrorManager/EMErrorDefs.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/EMFileMessageBody.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/EMGroup.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/EMGroupOccupant.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/EMGroupStyleSetting.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/EMImageMessageBody.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/EMLocationMessageBody.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/EMMessage.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/EMMessageBodyInternal.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/Utility/EMNetworkMonitorDefs.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/EMPushNotificationOptions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/EMReceipt.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/EMReceiptBase.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/EMTextMessageBody.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/EMVideoMessageBody.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/EMVoiceMessageBody.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/EaseMobClientSDKLite/EaseMob.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/EaseMobClientSDKLite/EaseMobHeaders.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/resources/EaseMob.bundle/ErrorTable.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/IChatImageOptions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/IChatManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/internal/IChatManagerBase.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/internal/IChatManagerBuddy.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/internal/IChatManagerChat.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/internal/IChatManagerConversation.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/delegates/IChatManagerDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/internal/IChatManagerEncryption.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/internal/IChatManagerGroup.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/internal/IChatManagerLogin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/internal/IChatManagerMedia.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/internal/IChatManagerPushNotification.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/internal/IChatManagerSettingOptions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/internal/IChatManagerUtil.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/Utility/EMDeviceManager/IDeviceManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/Utility/EMDeviceManager/internal/IDeviceManagerBase.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/Utility/EMDeviceManager/internal/IDeviceManagerCamera.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/Utility/EMDeviceManager/delegates/IDeviceManagerDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/Utility/EMDeviceManager/internal/IDeviceManagerDevice.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/Utility/EMDeviceManager/internal/IDeviceManagerLocation.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/Utility/EMDeviceManager/internal/IDeviceManagerMedia.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/Utility/EMDeviceManager/internal/IDeviceManagerProximitySensor.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/IEMChatCryptor.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/IEMChatFile.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/IEMChatObject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/IEMChatProgressDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/IEMFileMessageBody.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/ChatService/EMChatManager/types/IEMMessageBody.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bugTrack/zh-Hans.lproj/InfoPlist.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bugTrackTests/zh-Hans.lproj/InfoPlist.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/ViewController/LoginViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/ViewController/LoginViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bugTrack/zh-Hans.lproj/Main.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/ViewController/ModifyUserInfoViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/ViewController/ModifyUserInfoViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/DataSource/Model/Modules.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/DataSource/Model/Modules.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/DataSource/Model/Project.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/DataSource/Model/Project.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/ViewController/ProjectTeamManagerViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/ViewController/ProjectTeamManagerViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/PushConfig.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/ViewController/RegisterViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/ViewController/RegisterViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/DataSource/Model/Team.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/DataSource/Model/Team.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/DataSource/Model/User.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/DataSource/Model/User.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/DataSource/Model/Version.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/DataSource/Model/Version.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/ViewController/bugManageCreateViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/ViewController/bugManageCreateViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/ViewController/bugManagerDetailViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/ViewController/bugManagerDetailViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vendors/EaseMobSDK/include/Utility/commonDefs.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/ViewController/noficaitionManagerViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/ViewController/noficaitionManagerViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/ViewController/projectManageCreatViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/ViewController/projectManageCreatViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/ViewController/projectManagerDetailViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/ViewController/projectManagerDetailViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/DataSource/Model/userInfo.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Moduels/DataSource/Model/userInfo.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bugTrack/AppDelegate.h" afterPath="$PROJECT_DIR$/bugTrack/AppDelegate.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bugTrack/AppDelegate.m" afterPath="$PROJECT_DIR$/bugTrack/AppDelegate.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bugTrack/Base.lproj/Main.storyboard" afterPath="$PROJECT_DIR$/bugTrack/Base.lproj/Main.storyboard" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bugTrack/ViewController.m" afterPath="$PROJECT_DIR$/bugTrack/ViewController.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bugTrack/bugTrack-Prefix.pch" afterPath="$PROJECT_DIR$/bugTrack/bugTrack-Prefix.pch" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bugTrack.xcodeproj/xcuserdata/zhangyw.xcuserdatad/xcschemes/bugTrack.xcscheme" afterPath="$PROJECT_DIR$/bugTrack.xcodeproj/xcuserdata/zhangyw.xcuserdatad/xcschemes/bugTrack.xcscheme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bugTrack.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/bugTrack.xcodeproj/project.pbxproj" />
+    </list>
+    <ignored path="bugTrack.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="bugTrack" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="34" />
+    <option name="y" value="109" />
+    <option name="width" value="1864" />
+    <option name="height" value="1058" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bugTrack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bugTrack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bugTrack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/bugTrack-django" />
+  </component>
+  <component name="RunManager">
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4cc1049-a024-497e-b982-0ee98e0ec259" name="Default" comment="" />
+      <created>1425879785803</created>
+      <option name="number" value="Default" />
+      <updated>1425879785803</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="34" y="109" width="1864" height="1058" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
