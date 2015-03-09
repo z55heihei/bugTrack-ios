@@ -7,7 +7,6 @@ bugTrack-ios客户端构建于bugTrack-django后台管理，可以创建发布bu
 #Api:
 ```bash
 /*!
- *  @author zhangyuanwu
  *
  *  @brief  获取所有用户
  *  @param userid   用户id
@@ -59,7 +58,6 @@ bugTrack-ios客户端构建于bugTrack-django后台管理，可以创建发布bu
 
 
 /*!
- *  @author zhangyuanwu
  *
  *  @brief  登录
  *
@@ -77,7 +75,6 @@ bugTrack-ios客户端构建于bugTrack-django后台管理，可以创建发布bu
 
 
 /*!
- *  @author zhangyuanwu
  *
  *  @brief  修改用户信息
  *
@@ -133,7 +130,6 @@ bugTrack-ios客户端构建于bugTrack-django后台管理，可以创建发布bu
                      errorBlock:(void(^)(NSError *error))errorblock;
 
 /*!
- *  @author zhangyuanwu
  *
  *  @brief  删除模块
  *
@@ -163,7 +159,6 @@ bugTrack-ios客户端构建于bugTrack-django后台管理，可以创建发布bu
             errorBlock:(void(^)(NSError *error))errorblock;
 
 /*!
- *  @author zhangyuanwu
  *
  *  @brief  根据id删除bug
  *
@@ -195,7 +190,6 @@ bugTrack-ios客户端构建于bugTrack-django后台管理，可以创建发布bu
                          errorBlock:(void(^)(NSError *error))errorblock;
 
 /*!
- *  @author zhangyuanwu
  *
  *  @brief  获取所有团队
  *
@@ -225,7 +219,6 @@ bugTrack-ios客户端构建于bugTrack-django后台管理，可以创建发布bu
 
 
 /*!
- *  @author zhangyuanwu
  *
  *  @brief  创建团队
  *
@@ -255,7 +248,6 @@ bugTrack-ios客户端构建于bugTrack-django后台管理，可以创建发布bu
 
 
 /*!
- *  @author zhangyuanwu
  *
  *  @brief  创建项目
  *
@@ -287,7 +279,6 @@ bugTrack-ios客户端构建于bugTrack-django后台管理，可以创建发布bu
                             errorBlock:(void(^)(NSError *error))errorblock;
 
 /*!
- *  @author zhangyuanwu
  *
  *  @brief  获取所有版本
  *
@@ -316,7 +307,6 @@ bugTrack-ios客户端构建于bugTrack-django后台管理，可以创建发布bu
 
 
 /*!
- *  @author zhangyuanwu
  *
  *  @brief 创建版本
  *
